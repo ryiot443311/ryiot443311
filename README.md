@@ -3,4 +3,4 @@
 
 # Accounts
 
-(Discord)[https://discord.gg/Snk9hxEq]
+[Discord](https://discord.gg/Snk9hxEq)
