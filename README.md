@@ -12,8 +12,8 @@ Welcome to the TAMAZSS profile repository!
 
 ## Accounts
 ### SNS
-- [Discord](https://discord.gg/Snk9hxEq)
-- [Twitter(sub)](https://x.com/GG_Guntret?s=09)
+- [Discord(Please notify us if any links are broken)](https://discord.gg/Snk9hxEq)
+- [Twitter](https://x.com/GG_Guntret?s=09)
 - [Reddit](https://www.reddit.com/u/More-Hovercraft-3961/s/x7sqP7tQt4)
 - [Zenn](https://zenn.dev/ry351)
 - [Hoyolab](https://m.hoyolab.com/#/accountCenter/postList?id=314887428)
