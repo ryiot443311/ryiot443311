@@ -25,12 +25,12 @@
 - [Hoyolab](https://m.hoyolab.com/#/accountCenter/postList?id=314887428)
 
 ### Games
-- [Steam](https://steamcommunity.com/id/Tamazss_thanks/)
 <!-- STEAM-STATS:START -->
 | Game | Recent (2 Weeks) | Total Playtime |
 |:---|:---:|:---:|
 | (No recent games) | - | - |
 <!-- STEAM-STATS:END -->
+- [Steam](https://steamcommunity.com/id/Tamazss_thanks/)
 - [Twitch](https://m.twitch.tv/tamazss/home)
 
 ## Development Experience
