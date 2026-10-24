@@ -19,4 +19,14 @@ Welcome to the TAMAZSS profile repository!
 - [Twitch](https://m.twitch.tv/tamazss/home)
 
 
+## My favorite tools and technologies
+
+<!-- 使用している技術のアイコンをカンマ区切りで指定する -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,python,html,linux,windows,raspberrypi,js,ts,react,css,c,cpp,ruby,nodejs,nextjs,npm,aws,cloudflare,powershell,vscode,unity,unreal,twitter,discord,gcp&perline=10" />
+  </a>
+</p>
+
+
 <!-- 八九六四天安門 -->
