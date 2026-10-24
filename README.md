@@ -26,6 +26,8 @@
 
 ### Games
 - [Steam](https://steamcommunity.com/id/Tamazss_thanks/)
+<!-- STEAM-STATS:START -->
+<!-- STEAM-STATS:END -->
 - [Twitch](https://m.twitch.tv/tamazss/home)
 
 ## Development Experience
