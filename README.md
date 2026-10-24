@@ -50,7 +50,7 @@
 <!-- 使用している技術のアイコンをカンマ区切りで指定する -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,python,html,linux,windows,raspberrypi,js,ts,react,css,c,cpp,ruby,nodejs,nextjs,npm,aws,cloudflare,powershell,vscode,unity,unreal,twitter,discord,gcp&perline=10" />
+    <img src="https://skillicons.dev/icons?i=github,git,linux,windows,raspberrypi,python,html,js,ts,react,css,c,cpp,ruby,nodejs,nextjs,npm,aws,cloudflare,powershell,vscode,unity,unreal,twitter,discord,gcp&perline=10" />
   </a>
 </p>
 
