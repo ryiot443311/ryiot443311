@@ -60,7 +60,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryiot443311/ryiot443311/output/github-snake.gif">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ryiot443311/ryiot443311/output/github-snake.gif">
 </picture>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{ryiot443311}"/>
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=ryiot443311&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/ryiot443311"
+  width="600"
+  height="300"
+/>
 </a>
 <!-- 八九六四天安門 -->
