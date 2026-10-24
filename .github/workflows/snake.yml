@@ -4,10 +4,7 @@ on:
   schedule:
     # 毎日UTCの0時（日本時間9時）に自動実行
     - cron: "0 0 * * *"
-  
-  # 手動実行用
   workflow_dispatch:
-  
   push:
     branches:
     - main
@@ -17,20 +14,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
-      # snake
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+
+      # GIF出力
+      - name: generate github-contribution-grid-snake.gif
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.gif
+            dist/github-snake-dark.gif?palette=github-dark&color_background=#0d1117
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # ブランチプッシュ
-      - name: push github-contribution-grid-snake.svg to the output branch
+      # ブランチにプッシュ
+      - name: push github-contribution-grid-snake.gif to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
