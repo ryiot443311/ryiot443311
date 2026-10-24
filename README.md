@@ -27,6 +27,9 @@
 ### Games
 - [Steam](https://steamcommunity.com/id/Tamazss_thanks/)
 <!-- STEAM-STATS:START -->
+| Game | Recent (2 Weeks) | Total Playtime |
+|:---|:---:|:---:|
+| (No recent games) | - | - |
 <!-- STEAM-STATS:END -->
 - [Twitch](https://m.twitch.tv/tamazss/home)
 
