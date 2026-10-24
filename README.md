@@ -54,7 +54,7 @@
   </a>
 </p>
 
-## Git commit
+## Git commit & Git animals
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryiot443311/ryiot443311/output/github-snake-dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryiot443311/ryiot443311/output/github-snake.gif">
