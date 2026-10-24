@@ -1,10 +1,20 @@
-# Hello〜!!
-Welcome to the TAMAZSS profile repository!
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=36BCF7&center=false&vCenter=true&width=1100&height=60&lines=Welcome+to+the+TAMAZSS+profile+repository%21" alt="Typing SVG" />
+  </a>
+</div>
+
+## Visitors & Languages
+![Visitor Count](https://count.getloli.com/get/@ryiot443311?theme=gelbooru)
+<br>
+<br>
+<div align="left">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=ryiot443311&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryiot443311&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{ryiot443311}"/>
-</a>
+
 
 ## Accounts
 ### SNS
@@ -18,6 +28,7 @@ Welcome to the TAMAZSS profile repository!
 - [Steam](https://steamcommunity.com/id/Tamazss_thanks/)
 - [Twitch](https://m.twitch.tv/tamazss/home)
 
+## Development Experience
 
 ## My favorite tools and technologies
 
@@ -28,5 +39,13 @@ Welcome to the TAMAZSS profile repository!
   </a>
 </p>
 
-
+## Git commit
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryiot443311/ryiot443311/output/github-snake-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryiot443311/ryiot443311/output/github-snake.gif">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ryiot443311/ryiot443311/output/github-snake.gif">
+</picture>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{ryiot443311}"/>
+</a>
 <!-- 八九六四天安門 -->
