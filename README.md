@@ -34,7 +34,15 @@
 - [Twitch](https://m.twitch.tv/tamazss/home)
 
 ## Development Experience
-
+※ 非公開は要望などにより公開する場合あり
+| Project Name | Description | Tech Stack | Role / Status |
+| :--- | :--- | :--- | :--- |
+| **[jugyo-KakuNIN](https://github.com/ryiot443311/jugyo-KakuNIN)** | 大学の授業出欠管理、クォーター制対応、キャンパスマップを提供するWebアプリケーション | `React`, `Vite`, `TypeScript` | **Lead Developer**<br>*(Active)* |
+| **[game_SNS-s_literacy](https://github.com/ryiot443311/game_SNS-s_literacy)** | ゲームおよびSNSの適切な利用方法とリテラシー向上を目的とした学習・啓発プロジェクト | `JavaScript`, `CSS`, `HTML` | **Lead Developer**<br>*(Active)* |
+| **[Secure-memo(非公開)](#)** | Web Crypto APIを用いた暗号化対応のデスクトップ向けセキュアメモアプリケーション | `React`, `Electron`, `Tailwind CSS` | **Creator**<br>*(Completed)* |
+| **[Desktop Flight Radar(非公開)](#)** | Raspberry Pi Pico 2 WとOLEDを用いた、卓上型のリアルタイム航空機レーダー・天気モニター | `MicroPython`, `Raspberry Pi Pico`, `OpenSky API` | **Hardware & Software**<br>*(Active)* |
+| **[Discord-Weather-Actions(非公開)](#)** | GitHub Actionsを利用した、Discordサーバー向けの完全自動天気通知ボット | `Python`, `GitHub Actions`, `Discord Webhook` | **Creator**<br>*(Completed)* |
+| **[tsunami_checker(非公開)](#)** | Google Cloud FunctionsとSlack Webhookを連携させた、サーバーレス津波警報通知システム | `Python`, `GCP`, `Cloud Scheduler` | **Creator**<br>*(Completed)* |
 ## My favorite tools and technologies
 
 <!-- 使用している技術のアイコンをカンマ区切りで指定する -->
