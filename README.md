@@ -4,7 +4,7 @@
   </a>
 </div>
 
-## Visitors & Languages
+## Stats & Languages
 ![Visitor Count](https://count.getloli.com/get/@ryiot443311?theme=gelbooru)
 <br>
 <br>
