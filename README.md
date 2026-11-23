@@ -28,9 +28,9 @@
 <!-- STEAM-STATS:START -->
 | Game | Recent (2 Weeks) | Total Playtime |
 |:---|:---:|:---:|
-| <img src='https://cdn.akamai.steamstatic.com/steam/apps/4643090/header.jpg' width='150'><br>**The NOexistenceN of Lilith** | 90.9 hrs | 831.9 hrs |
-| <img src='https://cdn.akamai.steamstatic.com/steam/apps/3419430/header.jpg' width='150'><br>**Bongo Cat** | 89.7 hrs | 1658.8 hrs |
-| <img src='https://cdn.akamai.steamstatic.com/steam/apps/3301060/header.jpg' width='150'><br>**Desktop Mate** | 82.3 hrs | 2301.6 hrs |
+| <img src='https://cdn.akamai.steamstatic.com/steam/apps/4643090/header.jpg' width='150'><br>**The NOexistenceN of Lilith** | 89.8 hrs | 831.9 hrs |
+| <img src='https://cdn.akamai.steamstatic.com/steam/apps/3419430/header.jpg' width='150'><br>**Bongo Cat** | 89.0 hrs | 1658.8 hrs |
+| <img src='https://cdn.akamai.steamstatic.com/steam/apps/3301060/header.jpg' width='150'><br>**Desktop Mate** | 81.6 hrs | 2301.6 hrs |
 <!-- STEAM-STATS:END -->
 - [Steam](https://steamcommunity.com/id/Tamazss_thanks/)
 - [Twitch](https://m.twitch.tv/tamazss/home)
