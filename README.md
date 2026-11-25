@@ -40,8 +40,8 @@
 | Project Name | Description | Tech Stack | Role / Status |
 | :--- | :--- | :--- | :--- |
 | **[jugyo-KakuNIN](https://github.com/ryiot443311/jugyo-KakuNIN)** | 大学の授業出欠管理、クォーター制対応、キャンパスマップを提供するWebアプリケーション | `React`, `Vite`, `TypeScript` | **Lead Developer**<br>*(Active)* |
-| **[game_SNS-s_literacy](https://github.com/ryiot443311/game_SNS-s_literacy)** | ゲームおよびSNSの適切な利用方法とリテラシー向上を目的とした学習・啓発プロジェクト | `JavaScript`, `CSS`, `HTML` | **Lead Developer**<br>*(Active)* |
-| **[earthquake_and_tsunami-simulator](https://github.com/ryiot443311/earthquake_and_tsunami-simulator)** | 地震波、津波と、現実的な速報やアラームを再現したシミュレーター | `JavaScript`, `HTML` | **Creator**<br>*(Completed)* |
+| **[game_SNS-s_literacy](https://github.com/ryiot443311/game_SNS-s_literacy)** | ゲームおよびSNSの適切な利用方法とリテラシー向上を目的とした学習・啓発プロジェクト | `JavaScript`, `CSS`, `HTML` | **Lead Developer**<br>*(Completed)* |
+| **[earthquake_and_tsunami-simulator](https://github.com/ryiot443311/earthquake_and_tsunami-simulator)** | 地震波、津波と、現実的な速報やアラームを再現したシミュレーター | `JavaScript`, `HTML` | **Creator**<br>*(Active)* |
 | **[Desktop Flight Radar(非公開)](#)** | Raspberry Pi Pico 2 WとOLEDを用いた、卓上型のリアルタイム航空機レーダー・天気モニター | `MicroPython`, `Raspberry Pi Pico`, `OpenSky API` | **Hardware & Software**<br>*(Active)* |
 | **[Discord-Weather-Actions(非公開)](#)** | GitHub Actionsを利用した、Discordサーバー向けの完全自動天気通知ボット | `Python`, `GitHub Actions`, `Discord Webhook` | **Creator**<br>*(Completed)* |
 | **[tsunami_checker(非公開)](#)** | Google Cloud FunctionsとSlack Webhookを連携させた、サーバーレス津波警報通知システム | `Python`, `GCP`, `Cloud Scheduler` | **Creator**<br>*(Completed)* |
